@@ -1,9 +1,14 @@
 html{
   background-color: #dbd6cf;
+  font-family: 'Bevan', cursive;
   color: #fff;
 }
 
 h1 {
-  display: block;
   text-align: center;
+}
+
+.nav {
+  display: block;
+  background-color: #79756f;
 }
