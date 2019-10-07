@@ -2,3 +2,8 @@ html{
   background-color: #dbd6cf;
   color: #fff;
 }
+
+h1 {
+  display: block;
+  text-align: center;
+}
