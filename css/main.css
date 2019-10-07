@@ -18,6 +18,10 @@ h1 {
   text-align: center;
 }
 
+.venus {
+  display: block;
+}
+
 ul {
   list-style-type: none;
 }
