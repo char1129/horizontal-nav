@@ -17,6 +17,7 @@ h1 {
   border-bottom: 3px solid #595652;
 }
 
-p {
+li {
   display: inline-block;
+  background-color: #713837;
 }
