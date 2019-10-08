@@ -1,6 +1,5 @@
-html{
+html {
   background-color: #dbd6cf;
-  font-family: sans-serif;
   color: #fff;
   line-height: 1.5rem;
   box-sizing: border-box;
@@ -12,7 +11,11 @@ html{
 
 h1 {
   text-align: center;
-  font-family: 'Bevan', cursive;
+  font-family: "Bevan", cursive;
+}
+
+body {
+  font-family: sans-serif;
 }
 
 .nav {
@@ -37,14 +40,14 @@ li {
 
 .buttons a {
   text-decoration: none;
-  color: #fff
+  color: #fff;
 }
 
-.buttons a:hover{
+.buttons a:hover {
   background-color: #f33;
   color: #fff;
 }
 
-.buttons:hover{
+.buttons:hover {
   background-color: #f33;
 }
