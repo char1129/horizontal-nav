@@ -3,6 +3,11 @@ html{
   font-family: sans-serif;
   color: #fff;
   line-height: 1.5rem;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 h1 {
