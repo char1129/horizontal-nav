@@ -11,11 +11,12 @@ html {
 
 h1 {
   text-align: center;
-  font-family: "Bevan", cursive;
+  font-family: 'Bevan', sans-serif;
 }
 
 body {
   font-family: sans-serif;
+  margin: .3em;
 }
 
 .nav {
@@ -35,7 +36,6 @@ li {
   background-color: #713837;
   border-radius: 10px;
   padding: .6em .5em .75em;
-  margin: .3em;
 }
 
 .buttons a {
